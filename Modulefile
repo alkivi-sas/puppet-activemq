@@ -1,0 +1,8 @@
+name    'alkivi-activemq'
+version '0.0.1'
+source 'https://github.com/alkivi-sas/puppet-activemq'
+author 'alkivi'
+license 'LGPLv3'
+summary 'Controls ActiveMQ middleware'
+project_page 'https://github.com/alkivi-sas/puppet-activemq'
+dependency 'puppetlabs/java_ks', '>=1.1.0'
